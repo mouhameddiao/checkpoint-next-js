@@ -1,0 +1,21 @@
+/* src/styles/Home.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .content {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    border-radius: 10px;
+  }
+  
+  .profilePic {
+    border-radius: 50%;
+    margin-top: 20px;
+  }
+  

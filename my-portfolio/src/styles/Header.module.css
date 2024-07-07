@@ -1,0 +1,19 @@
+/* src/styles/Header.module.css */
+.header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .nav a {
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s;
+  }
+  
+  .nav a:hover {
+    color: #f39c12;
+  }
+  

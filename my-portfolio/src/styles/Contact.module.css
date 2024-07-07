@@ -1,0 +1,12 @@
+/* src/styles/Contact.module.css */
+.container {
+    padding: 20px;
+  }
+  
+  .content {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
